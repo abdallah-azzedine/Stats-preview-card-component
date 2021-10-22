@@ -38,7 +38,7 @@ header
     grid-area: 1 /4 / 3 span/ 4 span;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-    background-image: url("/image/image-header-desktop.jpg");
+    background-image: url("image/image-header-desktop.jpg");
     background-size: cover;
     background-repeat: round;
     z-index: 1;
